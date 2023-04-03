@@ -1,0 +1,33 @@
+
+.input[type=text]{
+   
+    border-top: none;
+    border-left: none;
+    border-right: none;
+  
+    border-bottom: black;
+    
+    
+  }
+  .borders{
+    border-style: hidden;
+    border-bottom: solid;
+    
+  }
+  
+  .content {
+    max-width: 500px;
+    margin: auto;
+  }
+  .marginleft{
+    margin-left: 75px;
+    
+  }
+  .marginbutton{
+    margin-left: 90%;
+   
+    
+  }
+  .margintable{
+    margin-left: 25%;
+  }
